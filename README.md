@@ -1,8 +1,8 @@
 # Curriculum Overview
 
-- 9 weeks of guided instruction
+- 11 weeks of guided instruction
   - 4 days of guided instruction per week and/or pickup lessons
-- 13 weeks of team-based and individual projects
+- 9 weeks of team-based and individual projects
   - Scrum practice for teams: 2-3 day sprints, retrospectives
   - Staff acting as scrum masters/product owners
 
