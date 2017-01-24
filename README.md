@@ -60,40 +60,46 @@
   - AJAX
   - JSON and APIs
 - Week 16
-  - Project Week
-- Week 17
-  - Advanced MVC
-  - TDD
-- Weeks 18-22
+  - Flex Week
+- Weeks 17-20
   - Final Project
   - Scrum
 
+
+# Important Dates to Remember  
+
+Start Date: Monday, January 30, 2017
+
+Extra Day(REQUIRED): Friday, June 2, 2017 
+
+Days off:
+- April 17-21(Spring Break) 
+- May 29(Memorial Day)
+
+Last Day: Thursday, June 22, 2017 
+
+Career Day: Friday, June 23, 2017
+
 # Grading Policy
 
-Class is from 5:45pm-9:00pm Monday-Thursday, with the exception of holidays on which we will not be having class.
+Class is from 5:30pm-9:00pm Monday-Thursday, with the exception of holidays on which we will not be having class.
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course. Finally, you must receive a grade of 70% or higher on the final project.
-
-## Homework Assignments
-
-Homework assignments are self-graded, with students marking each assignment in one of four categories. These categories map to a certain number of points out of 5 possible points for each homework assignment, as outlined below:
-
-**Incomplete**: 0/5
-**Not Yet**: 3.5/5
-**Meets Requirements**: 4.25/5
-**Outstanding**: 5/5
-
-Self-graded assignments will not be calculated in your grade, but should be used as a way to track your progress.
-
-You must submit your assignments when they are due, whether or not they are complete or you feel 100% confident in your work. Homework assignments will act primarily as indicators of how you are currently feeling in the moment.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
 
 ## Projects
 
 Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, including code readability, proper variable names, and comments when necessary.
 
-Projects must be turned in by the date and time specified on the project information page, or else they will receive a late penalty of 10% for each day that the project is late, up to 5 days. After 5 days, the project should still be submitted in order to get credit for project completion per course requirements.
+### Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
+* For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
+  * To be clear, a project due at 5:30pm on a Monday evening is considered one day late starting at 5:31pm. 
+  * That project is then considered an additional day late starting at 5:31pm on Tuesday evening, thereby being two days late.
+* After a project is five days late (using the above example, this would be Friday at 5:31 pm), the project is automatically scored at a 0/100 or 0%.
+* If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
+* Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
+
 
 ## Final Projects
 
@@ -113,3 +119,6 @@ Optional Textbooks:
 
 Free Digital Textbook
 - _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/downloads/)_ (aka _The Bulgarian Book_), by Svetlin Nakov, Veselin Kolev and team
+
+
+© 2017 We Can Code IT ALL RIGHTS RESERVED
