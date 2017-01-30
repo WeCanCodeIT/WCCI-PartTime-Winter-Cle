@@ -1,0 +1,14 @@
+#First Day Orientation
+- Welcome to We Can Code IT
+- Computer Assignments & ID Badges
+- Curriculum Overview & Syllabus
+- Graduation & Career Day
+- Expectations
+  - Individual
+  - Team
+  - Instructors
+- Houses
+- Check-In
+- MazeSweeper Activity
+- Intro to Coding Activity
+- Check-Out
