@@ -19,9 +19,8 @@
   - Project Week
 - Week 3
   - Intro to OOP
-  - Lists and Dictionaries
   - Building Classes - Methods and Properties
-  - StringBuilder and RegEx
+  - Lists and Dictionaries
 - Week 4
   - Project Week
 - Week 5
@@ -61,6 +60,8 @@
   - JSON and APIs
 - Week 16
   - Flex Week
+  - Building Classes - Methods and Properties
+  - StringBuilder and RegEx
 - Weeks 17-20
   - Final Project
   - Scrum
