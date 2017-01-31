@@ -15,15 +15,14 @@
   - Boolean type
   - Character type
   - Strings
-- Console Application Exercise (5 Minutes)
 - [Operators & Expressions](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
 - Conditional Statments 
 **Wednesday, February 1st**
 - Continue topics from day 2 
 - Strings
   - What is a string?
-  - Initialzing strings
+  - Initialzing Strings
   - Character Escaping 
-  - String methods
+  - String Methods
 
 
