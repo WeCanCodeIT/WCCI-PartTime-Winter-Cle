@@ -13,7 +13,7 @@ These are the guiding principles for our cohort as they relate to how we hold ou
 - See what the market place needs and create code that you want to invent. 
 
 ##Team Expectations
-- Help brainstorm 
+- Help brainstorm new ideas. 
 - For use to collabrate with ideas and help excute those ideas and come up with the most effective solution.
 - Networking and lasting friendships.
 - Communicate and respect others.
