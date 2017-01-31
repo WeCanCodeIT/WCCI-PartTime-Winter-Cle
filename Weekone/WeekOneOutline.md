@@ -18,3 +18,11 @@
 - Console Application Exercise (5 Minutes)
 - [Operators & Expressions](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
 
+**Wednesday, Februaryy 1**
+- Strings
+  - What is a string?
+  - Initialzing strings
+  - Character Escaping 
+  - String methods
+
+
