@@ -17,6 +17,7 @@
   - Strings
 - [Operators & Expressions](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
 - Conditional Statments 
+
 **Wednesday, February 1st**
 - Continue topics from day 2 
 - Strings
