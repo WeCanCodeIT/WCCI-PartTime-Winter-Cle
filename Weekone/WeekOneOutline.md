@@ -25,5 +25,14 @@
   - Initialzing Strings
   - Character Escaping 
   - String Methods
+    - Equals()
+    - CompareTo()
+    - ToUpper() and ToLower()
+    - IndexOf() & LastIndexOf()
+    - Remove()
+    - Substring()
+    - Split()
+    - Replace() 
+    
 
 
