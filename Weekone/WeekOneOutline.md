@@ -33,6 +33,8 @@
     - Substring()
     - Split()
     - Replace() 
+    - Compare()
+    - Concat()
     
 
 
