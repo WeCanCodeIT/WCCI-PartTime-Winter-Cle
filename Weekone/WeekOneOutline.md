@@ -14,7 +14,7 @@
   - Floating-point types
   - Boolean type
   - Character type
-  - Strings
+  - [Strings](https://docs.google.com/presentation/d/1s_6Fv0zKtNI53nvYdnBS-8ywgEkvuoWlwcR5JikHE4g/edit#slide=id.p) 
 - [Operators & Expressions](https://docs.google.com/presentation/d/1BEdLuG3_ucGoOnatinjJfwA6U18IxHjCrLGvnfWYi7s/edit?usp=sharing)
 - Conditional Statments 
 
