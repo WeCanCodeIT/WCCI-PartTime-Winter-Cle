@@ -21,21 +21,7 @@
 **Wednesday, February 1st**
 - Continue topics from day 2 
 - [Conditionals](https://docs.google.com/presentation/d/1QeQS5ZY0srAWsvMAPqnH2vSDn1cNZu7DXrgd1nw2piE/edit#slide=id.p) 
-- Strings
-  - What is a string?
-  - Initialzing Strings
-  - Character Escaping 
-  - String Methods
-    - Equals()
-    - CompareTo()
-    - ToUpper() and ToLower()
-    - IndexOf() & LastIndexOf()
-    - Remove()
-    - Substring()
-    - Split()
-    - Replace() 
-    - Compare()
-    - Concat()
+
     
 **Thursday, February 2nd**
 - More Conditions
