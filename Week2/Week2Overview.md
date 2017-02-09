@@ -42,6 +42,7 @@
 - Reference Materials
   - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - Problems/Projects
+  - [Fortune Teller](https://github.com/WeCanCodeIT/WCCI-PartTime-Winter-Cle/blob/master/Week2/Assignments/FortuneTeller.md)
   - [GitHub Practice](https://try.github.io/levels/1/challenges/1)
   - [CodeSchool](https://www.codeschool.com/courses/try-git)
   - [Atlassian](https://www.atlassian.com/git/tutorials/)
