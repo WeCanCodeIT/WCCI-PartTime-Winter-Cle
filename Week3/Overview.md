@@ -4,7 +4,7 @@
 
 - Topics
   - More Git and Github
-  - How to submit your projects
+  - How to submit your projects [Fortune Teller](https://github.com/WeCanCodeIT/WCCI-PartTime-Winter-Cle/blob/master/Week2/Assignments/FortuneTeller.md)
   - Review on loops arrays and strings etc
   
 # Day 2 Overview
