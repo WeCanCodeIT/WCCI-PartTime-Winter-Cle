@@ -33,3 +33,4 @@ WEEK 4
 - Topics 
  - Finish up Static Classes and Static Members 
  - Project day 
+ - [Virtual Pet](https://github.com/WeCanCodeIT/WCCI-PartTime-Winter-Cle/blob/master/Week4/Virtual%20Pet%20Project.md)
