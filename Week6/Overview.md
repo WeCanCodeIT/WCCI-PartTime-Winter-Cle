@@ -20,7 +20,11 @@
 # Day 3 
 - Topics 
  - Finish Streams I/O
+ - Dictionaries 
  - Introduce Project 
+ 
+- Reference Materials
+   - [Dictionaties](https://docs.google.com/presentation/d/15d7Azuw0AulTALzjA72HgzGnnVNfFjfKtwx5agpBvOs/edit?usp=sharing)
  
 # Day 4 
 - Project Day 
