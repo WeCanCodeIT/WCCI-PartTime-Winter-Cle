@@ -87,5 +87,6 @@ Always target MVP - and once you get there, figure out what the next MVP is!
 
 Use dropdowns when you want to limit a user's possible choices. There's an HTML element that lets you do this!
 
+[DONT FORGET TO INCLUDE YOUR SCHEMA AND DATA](https://docs.google.com/presentation/d/1Cvq4SARsvfHe03eKruVjmF4Mx6kk1Rj4C0xYrCWYujM/edit?ts=5900f034#slide=id.p)
 
 * [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSdXw1dK-mhJnMCVWC7VMYqoiiK2IOVn8AXn_8ZQCQqiUxKQJg/viewform)*
